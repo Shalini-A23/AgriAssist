@@ -1,0 +1,35 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+crop-env/
+
+# Environment and package management
+.env
+.venv/
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and metadata
+*.log
+*.json
+*.db
+*.sqlite3
+
+# IDE and OS-specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
