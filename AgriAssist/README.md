@@ -139,13 +139,55 @@ JavaScript: Scripting language used for client-side interactions and enhancing t
 
 ---
 
-# Installation and Usage
-Virtual environment
 
-Clone the repository: git clone https://github.com/Shalini-A23/AgriAssist.git
-Install the required dependencies: pip install -r requirements.txt
-Run the application: python app.py
-Access the application through the web browser at http://localhost:5000
+# 🚀 Installation and Usage
+
+## 1. ✅ Set Up Virtual Environment
+
+```bash
+python3 -m venv myenv
+```
+
+### 🔹 Activate Environment
+
+- **On PowerShell:**
+
+```bash
+.\myenv\Scripts\Activate.ps1
+```
+
+- **On Command Prompt (cmd):**
+
+```cmd
+myenv\Scriptsctivate
+```
+
+## 2. 📥 Clone the Repository
+
+```bash
+git clone https://github.com/Shalini-A23/AgriAssist.git
+cd AgriAssist
+```
+
+## 3. 📦 Install Required Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## 4. ▶️ Run the Application
+
+```bash
+python app.py
+```
+
+## 5. 🌐 Access the Application
+
+Open your browser and go to:
+
+```
+http://localhost:5000
+```
 
 ---
 
